@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-router",
+  "name": "victor-laucas-react-portfolio",
   "version": "1.0.0",
   "description": "Basic skeleton codebase for React/Redux/Router applications.",
   "scripts": {
@@ -26,7 +26,7 @@
     "sass",
     "css module"
   ],
-  "author": "Your Name Here",
+  "author": "Victor Laucas",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/bottega-code-school/js-builder/issues"
